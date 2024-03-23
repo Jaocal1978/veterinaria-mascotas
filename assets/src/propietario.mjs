@@ -12,21 +12,6 @@ class Propietario
 
     }
 
-    get nombre()
-    {
-        return this.nombre;
-    }
-
-    get direccion()
-    {
-        return this.direccion;
-    }
-
-    get telefono()
-    {
-        return this.telefono;
-    }
-
     datosPropietario(nombre, direccion, telefono)
     {
         let nom = nombre;
